@@ -8,6 +8,9 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Nicholas Murray
+Tyler Schon
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +20,11 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+Assuming the technology is there
+
+Have you ever felt nostalgic for a certain place or time in your life (this summer, your abroad time, etc)?
+
+You can record a detailed "journey" that takes in all the senses of being in that place using VR.
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,6 +36,8 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+The underlying need is to make a seamless dining experience. The customer is worried about annoying the waiter, and they want their basic needs to be met immediately instead of waiting for their drinks to be filled.
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +46,18 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+We want to make the restaurant experience more efficient and comfortable for the diner.
+
+We can make several parts of the restaurant interactive- including the table and the chair.
+
+The interactive table includes a screen that has a virtual menu, approximate waiting times for food, and a call button for the waiter. The interactive table will also have a smart cup to automatically fill the table's water when it gets low.
+
+The table could also show a 3-d display of each menu item.
+
+Weaknesses - cost
+
+Strengths - convenience, comfort
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +65,8 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+They loved it. They don't want the touchscreen though.
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +78,17 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+We want to keep the dining experience fun, and not involve screens so much. So it's possible to do a projection on the table instead of a touchscreen.
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+
+1. Enjoyment
+2. User friendly
+3. Utility
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +98,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+We found that the idea was a great solution to the problem, but would be quite costly and might require maintenance.  However, we like the idea of a projector instead of a full screen covering the table, as it improves the cost effectiveness of the solution and would likely require less maintenance.
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+Their solution of the VR helmet and touch sensitive gloves was a nice solution to our problem. It will definitely meet our needs and give us the nostalgic feelings that we're looking for in a cool interactive way. It's exactly what we were looking for!
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
